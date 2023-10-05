@@ -90,10 +90,6 @@ li {
   color: #FFF;
 }
 
-.bg-color {
-  color: var(--card-secondary-color);
-}
-
 .footer {
   width: 100%;
   height: 30rem;
