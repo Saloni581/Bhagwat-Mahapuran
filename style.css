@@ -99,3 +99,14 @@ li {
 h4 {
   padding-top: 100px;
 }
+.footer-bottom {
+  margin-top: 15vw;
+  text-align: center;
+}
+
+.socials{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 4rem;
+}
